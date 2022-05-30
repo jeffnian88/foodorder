@@ -1,4 +1,10 @@
 <meta property="og:image" content="https://static.wixstatic.com/media/56a444_9273e80a60684dc8b38e56025059f356%7Emv2_d_3200_1800_s_2.png"/>
+<meta property="og:url" content="https://github.com/jeffnian88/foodorder/edit/master/readme.md"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="facebook login description"/>
+<meta property="og:title" content="facebook login"/>
+<meta property="fb:app_id" content="540531259464987"/>
+
 
 一、本隱私權政策僅適用於Google Play Store上架之foodorder應用程式，不適用於其他商店之foodorder應用程式
 
