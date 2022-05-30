@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://static.wixstatic.com/media/56a444_9273e80a60684dc8b38e56025059f356%7Emv2_d_3200_1800_s_2.png"/>
+
 一、本隱私權政策僅適用於Google Play Store上架之foodorder應用程式，不適用於其他商店之foodorder應用程式
 
 二、foodorder Android應用程式蒐集使用者手機品牌、型號、作業程式版本作為Google GCM推播用途，并同時作為統計用途。非經您書面同意，不會將個人資料用於其他用途。伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間，做為我們增進網站服務的參考依據，此記錄為內部應用，決不對外公佈。
